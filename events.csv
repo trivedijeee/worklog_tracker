@@ -1,0 +1,13 @@
+timestamp,event_type,details
+2026-02-13 14:10:35,power_on,boot
+2026-02-13 14:14:22,power_on,boot
+2026-02-13 15:31:50,power_on,boot
+2026-02-13 15:32:53,screen_lock,locked
+2026-02-13 15:32:56,screen_unlock,unlocked
+2026-02-13 15:34:09,power_on,boot
+2026-02-13 15:55:41,power_off,auto_detected_shutdown
+2026-02-13 15:55:41,power_on,boot
+2026-02-13 15:56:08,screen_lock,locked
+2026-02-13 15:56:12,screen_unlock,unlocked
+2026-02-13 16:06:05,screen_lock,locked
+2026-02-13 16:16:54,screen_unlock,unlocked
