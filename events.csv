@@ -701,3 +701,5 @@ timestamp,event_type,details
 2026-03-26 15:19:14,screen_unlock,unlocked
 2026-03-26 15:46:51,screen_lock,locked
 2026-03-26 15:46:59,screen_unlock,unlocked
+2026-03-26 15:51:01,screen_lock,locked
+2026-03-26 16:06:30,screen_unlock,unlocked
