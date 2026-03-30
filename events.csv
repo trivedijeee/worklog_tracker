@@ -761,3 +761,11 @@ timestamp,event_type,details
 2026-03-30 13:23:06,power_on,boot
 2026-03-30 13:36:07,screen_lock,locked
 2026-03-30 14:40:30,screen_unlock,unlocked
+2026-03-30 15:45:16,screen_lock,locked
+2026-03-30 15:45:17,power_off,suspend
+2026-03-30 15:57:53,power_on,resume
+2026-03-30 15:57:55,screen_unlock,unlocked
+2026-03-30 16:46:23,screen_lock,locked
+2026-03-30 17:01:22,power_off,suspend
+2026-03-30 17:01:35,power_on,resume
+2026-03-30 17:01:37,screen_unlock,unlocked
