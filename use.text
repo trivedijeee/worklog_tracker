@@ -1,0 +1,19 @@
+how to use this- 
+1. first we have to go the the directory where all file
+file loctaion - 
+saurabh-trivedi@saurabh-trivedi:~/workspace/worklog_tracker$ ls
+README.md  events.csv  requirements.txt  streamlit_app.py  tracker.py  use.text  venv
+
+2. then activate the virtual envarioment 
+how to activate -  
+source venv/bin/activate
+
+3. then use streamlit to view the logs 
+how to use this - 
+streamlit run streamlit_app.py
+
+4. after this you will redirect to chrome to view all logs
+
+5. after use we can diactivate the virtual eneviroment 
+how to deactivate - just write 
+deactivate
