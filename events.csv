@@ -835,3 +835,5 @@ timestamp,event_type,details
 2026-04-01 15:35:56,screen_unlock,unlocked
 2026-04-01 16:08:03,screen_lock,locked
 2026-04-01 16:12:17,screen_unlock,unlocked
+2026-04-01 16:48:00,screen_lock,locked
+2026-04-01 16:48:03,screen_unlock,unlocked
