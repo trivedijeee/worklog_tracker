@@ -837,3 +837,7 @@ timestamp,event_type,details
 2026-04-01 16:12:17,screen_unlock,unlocked
 2026-04-01 16:48:00,screen_lock,locked
 2026-04-01 16:48:03,screen_unlock,unlocked
+2026-04-01 18:03:34,power_off,suspend
+2026-04-01 18:04:11,power_on,resume
+2026-04-01 18:04:41,power_off,suspend
+2026-04-01 19:39:42,power_on,resume
